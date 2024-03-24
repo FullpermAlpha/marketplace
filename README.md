@@ -1,4 +1,4 @@
-# Fullperm marketplace for Secondlife
+# Fullperm marketplace for Secondlife & OpenSim
 
 https://marketplace.secondlife.com/de-DE/stores/161413
 
